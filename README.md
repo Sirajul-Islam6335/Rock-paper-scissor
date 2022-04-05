@@ -20,5 +20,12 @@ A classic two-person game. Players start each round by saying, “rock, paper, s
 
 # Model Accuracy and Loss:
 
-![image](https://user-images.githubusercontent.com/73145010/161723187-756090f8-d848-46e3-9306-3eecdb0f25a2.png)
+ ## Training and validation accuracy
+ ![image](https://user-images.githubusercontent.com/73145010/161726930-d23e05cd-a43b-4d46-ab34-efafa291b905.png)
+## Training and validation loss
+![image](https://user-images.githubusercontent.com/73145010/161727043-9b9b4ad9-9122-4e7d-99bc-86e20de24030.png)
+
+
+## Model Prediction:
+Finaly got desired result.
 
